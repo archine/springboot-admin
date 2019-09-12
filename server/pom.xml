@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.example</groupId>
-        <artifactId>springboot-admin</artifactId>
+        <artifactId>demo</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.gjing</groupId>
